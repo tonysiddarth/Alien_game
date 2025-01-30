@@ -67,8 +67,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 For feedback, suggestions, or collaboration opportunities, feel free to reach out:
 
-- **GitHub:** [Raghavankutty](https://github.com/Raghavankutty)
-- **Email:** raghavankutty35@gmail.com
+- **GitHub:** [Siddarthan Y K](https://github.com/tonysiddarth)
+- **Email:** tonysiddarth6@gmail.com
 
 ## Enjoy the game and happy coding! 🎉
 
